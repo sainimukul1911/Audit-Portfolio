@@ -8,10 +8,7 @@ This portfolio is organized to reflect the depth and breadth of my experience. H
 
 - [Overview](#overview)
 - [Portfolio Structure](#portfolio-structure)
-- [Methodology](#methodology)
-- [Tools & Resources](#tools--resources)
 - [Contact](#contact)
-- [Disclaimer](#disclaimer)
 
 ---
 
