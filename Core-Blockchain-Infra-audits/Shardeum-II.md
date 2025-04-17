@@ -9,7 +9,7 @@
 ## Executive Summary
 
 This audit competition, called Core, covered the Web3 aspects of the project, as well as some internal libs. 
-This covered three components: Shardus Core, Shardeum Validator, and Crypto Utils library.
+This covered three components: Shardus Core, Shardeum Validator, and Crypto Utils library. This audit covers the second iteration of Shardeum audit on immunefi.
 
 ---
 
