@@ -16,7 +16,7 @@ This audit focused on the Anvil's vault, issuance of letters of credit, and supp
 
 ## Findings
 
-https://reports.immunefi.com/anvil/36567-sc-insight-anyone-can-cancel-anyones-loc
+https://reports.immunefi.com/anvil/36567-sc-insight-anyone-can-cancel-anyones-loc - Medium (Displayed as insight due to some internal reasons but payed out as medium only)
 
 ---
 
